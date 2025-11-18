@@ -23,7 +23,7 @@ Funcionalidades principales
 ✔ Registro de turnos, servicios y análisis clínicos  
 ✔ Facturación, pagos y métodos de pago  
 ✔ Inventario y proveedores  
-✔ Auditoría de cambios con tabla Historial_modificacion
+✔ Auditoría de cambios con tabla Historial_modificacion  
 ✔ Seguridad con usuario distinto a root  
 ✔ Campos de creación, modificación y borrado lógico
 
