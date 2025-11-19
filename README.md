@@ -50,4 +50,4 @@ Autora ​​​🤠​
 Zaira Larrea – Diseño y desarrollo de base de datos
 
 ## Catedra de Base de Datos
-(agregar icono que represente la materia)
+Base de datos 2do año 2025 🖥️​💾​
